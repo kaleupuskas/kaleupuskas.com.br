@@ -51,7 +51,7 @@ address {
 hr {
     border: 0;
     margin: 10px 0;
-    height: 1px;
+    height: 2px;
     background: rgb(254,154,61);
     background: linear-gradient(90deg, rgba(254,154,61,1) 0%, rgba(116,39,71,1) 33%, rgba(56,118,29,1) 66%, rgba(11,83,148,1) 100%);
     clear: bottom;
